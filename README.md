@@ -26,8 +26,3 @@
 </div>
 
 ## 
-
-<div align="start">
-	<img src="https://github-readme-stats.vercel.app/api?username=fabriciodequeiroz&show_icons=true&hide_border=true&theme=prussian" />
-	<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciodequeiroz&langs_count=3&layout=compact&show_icons=true&hide_border=true&theme=prussian" />
-</div>
