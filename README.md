@@ -2,7 +2,6 @@
 
 - 💻 Experiência atual maior em Front-end
 - 🔭 Estudando Java 
-- 😄 Pronomes: Ele/dele
 
 ### Contatos
 
@@ -11,7 +10,11 @@
 	<a href="https://www.linkedin.com/in/fabriciodequeiroz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+
+
 ##
+
+![Fabricio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciodequeiroz&show_icons=true&theme=radical)
 
 ### Linguagens e Ferramentas
 
@@ -25,4 +28,12 @@
   <img align="center" alt="Fabricio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
+</br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciodequeiroz&layout=compact&theme=radical)
+
 ## 
+
+### Vida profissional atualmente
+
+- :books: Estudante de Engenharia de Software - UnB.
