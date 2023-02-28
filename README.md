@@ -1,7 +1,7 @@
 ### Olá, eu me chamo Fabrício, futuro Engenheiro de Software pela UnB - FGA
 
 - 💻 Experiência atual maior em Front-end
-- 🔭 Estudando Java e C#
+- 🔭 Estudando Java 
 - 😄 Pronomes: Ele/dele
 
 ### Contatos
