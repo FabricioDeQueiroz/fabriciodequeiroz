@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Fabrício 👋
 
-##### 💻 Futuro Engenheiro de Software pela Universidade de Brasília (UnB - FCTE).    
+#### 💻 Futuro Engenheiro de Software pela Universidade de Brasília (UnB - FCTE).    
 
 </br>
 
@@ -13,15 +13,9 @@
 ### 📫 Contatos
 
 <div>
-	<a href="mailto:fabriciodequeiroz2016@gmail.com" target="_blank">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-	</a>
-	<a href="https://www.linkedin.com/in/fabriciodequeiroz" target="_blank">
-		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-	</a>
-	<a href="https://t.me/FabriciodeQueiroz" target="_blank">
-		<img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-	</a>
+	<a href="mailto:fabriciodequeiroz2016@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+	<a href="https://www.linkedin.com/in/fabriciodequeiroz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+	<a href="https://t.me/FabriciodeQueiroz" target="_blank"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
 
 ---
@@ -57,4 +51,4 @@
 
 ### 🎯 Vida profissional atualmente
 
-##### 📚 Estudante de Engenharia de Software - UnB.
+#### 📚 Estudante de Engenharia de Software - UnB.
