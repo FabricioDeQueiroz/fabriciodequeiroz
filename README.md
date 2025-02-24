@@ -5,7 +5,7 @@
 </br>
 
 <div>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabricioDeQueiroz&show_icons=true&theme=radical&count_private=true">
+	<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabricioDeQueiroz&show_icons=true&theme=radical&count_private=true&hide=issues"></a>
 </div>
 
 ---
